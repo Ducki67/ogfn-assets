@@ -1,4 +1,6 @@
 # Images and Raw / Imgur file link to them
+Simply just copy the image link where it says `imgae.png` or `image.jpeg`and use them in your fortnite backend 
+
 
 # Github RAW files
 
